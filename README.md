@@ -114,6 +114,4 @@ Cada módulo está organizado por capas:
 
 ---
 
-## 📄 Licencia
 
-MIT © 2025 — Proyecto educativo y demostrativo para arquitectura de sistemas distribuidos IoT.
